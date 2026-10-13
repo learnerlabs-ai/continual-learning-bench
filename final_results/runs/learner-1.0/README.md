@@ -22,12 +22,12 @@ Reports, training data and every recorded answer are at [learnerlabs.ai/demos](h
 |---|---:|---:|---:|
 | sales_prediction | 0.444 | 0.430 | 1 |
 | database_exploration | 0.130 | 0.214 | 3 |
-| cohort_studies | 0.003 | 0.044 | 3 |
+| cohort_studies | 0.002 | 0.044 | 3 |
 
 | Task | Reward (mean) | Stateless baseline | Gain (mean) |
 |---|---:|---:|---:|
 | sales_prediction | 8.4398 | 5.7572 | 2.6826 |
-| database_exploration | 10.0221 | 1.8666 | 8.1555 |
+| database_exploration | 10.0222 | 1.8667 | 8.1556 |
 | cohort_studies | -0.0894 | -0.2408 | 0.1514 |
 
 On database exploration the three runs answer 21, 15 and 16 of 40 questions correctly. The stateless baseline answers 7.
